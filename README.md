@@ -1,7 +1,7 @@
 ### Hi there, my name is Lílian 👋
 
-- 👩‍🎓 I'm a nutritionist with a postgraduate degree in Sports Nutrition. Now doing my second degree in Systems Analysis and Development.
-- 👩‍💻 Currently learning HTML, CSS and JavaScript and using the acquired knowledge to develop some projects.
+- 👩‍🎓 I'm a Nutritionist with a postgraduate degree in Sports Nutrition. Now doing my second degree in Analysis and Systems Development.
+- 👩‍💻 Currently learning Infrastructure as Code, AWS, Docker, DevOps.
 - 😄 Pronouns: she/her
 - ❤️ I love cats, reading and outdoor activities.
 
