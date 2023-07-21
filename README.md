@@ -1,7 +1,6 @@
 ### Hi there, my name is Lílian 👋
 
-- 👩‍🎓 I'm a Nutritionist with a postgraduate degree in Sports Nutrition. Now doing my second degree in Analysis and Systems Development.
-- 👩‍💻 Currently working as Infrastructure/DevOps intern and learning Infrastructure as Code, AWS, Docker, Jenkins.
+- 👩‍💻 I'm currently working as Infrastructure/DevOps Intern and learning IaC, AWS, Docker, Jenkins, Kubernetes, Python, Azure DevOps.
 - 😄 Pronouns: she/her
 - ❤️ I love cats, reading and outdoor activities.
 
